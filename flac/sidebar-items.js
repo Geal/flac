@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["frame",""],["metadata","Provides an interface for dealing with FLAC metadata blocks."]],"struct":[["Stream",""]]});
